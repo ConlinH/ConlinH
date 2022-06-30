@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=conlin-huang)
 &nbsp;
+
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=conlin-huang&layout=compact&hide_border=true&hide_title=true)\
 &nbsp;
+-->
